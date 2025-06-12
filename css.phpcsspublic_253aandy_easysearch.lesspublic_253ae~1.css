@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+/********* public:andy_easysearch.less ********/
+.easysearch-thread-title a:link,.easysearch-thread-title a:visited{font-size:18px}.easysearch-forum-title a:link,.easysearch-forum-title a:visited{font-size:14px}.easysearch-date{color:#8c8c8c;font-size:14px}.easysearch-snippet{color:#8c8c8c;font-size:14px}.easysearch-resource-title a:link,.easysearch-resource-title a:visited{font-size:18px}.easysearch-resource-category a:link,.easysearch-resource-category a:visited{font-size:14px}.easysearch-resource-date{color:#8c8c8c;font-size:14px}.easysearch-resource-tagline{color:#8c8c8c;font-size:14px}
+
+/********* public:extra.less ********/
